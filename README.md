@@ -5,6 +5,8 @@
 Clone or download repository and install package using npm:
 
 	$ npm install
+	
+Create configuration file at `var/configuration.json` (example included).
 
 Run without installing windows service.
 
