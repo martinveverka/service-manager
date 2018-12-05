@@ -1,0 +1,17 @@
+{
+  "name": "mv-service-manager",
+  "version": "1.0.0",
+  "description": "Service manager for personal use.",
+  "author": {
+    "name": "Martin Veverka",
+    "email": "martin@veverka.eu"
+  },
+  "repository": "martinveverka/service-manager",
+  "dependencies": {
+    "node-windows": "^0.1.7"
+  },
+  "license": "MIT",
+  "os": [
+    "win32"
+  ]
+}
