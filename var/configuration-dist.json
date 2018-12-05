@@ -1,0 +1,13 @@
+{
+	"log-directory": "./var",
+	"services": {
+		"some-service": {
+			"bin": null,
+			"cwd": "c:/app/some-service",
+			"args": [
+				"app.js",
+				"standalone"
+			]
+		}
+	}
+}
